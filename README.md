@@ -7,7 +7,7 @@ This is a project created by two students with a goal to develop a backend syste
 * Movie Details: Users can view detailed information about a specific movie, including title, director, description, genre, date, location, total seats, available seats, and price of ticket.
 * Booking Tickets: Users can book tickets for a movie by specifying the movie ID, quantity of tickets, and total price.
 * Booking History: Users can view their booking history, which includes details of movies they have booked, such as title, director, description, genre, date, location, booked tickets, and total price.
-* Add/Delete/Update Movies: Admin users can add new movies, delete existing movies, and update movie information.
+* Add/Delete/Update Movies: Admin users can add new movies, delete existing movies, and update movie informations.
 
 ## Technologies
 Java,
